@@ -67,4 +67,4 @@ print('CV score for class is {} '.format(crossv_score))
 classifier.fit(X_train, Y_train)
 print(scores) 
 print('the total score of this dataset is {}'.format(np.mean(scores)))
-# the mean scores is equivalent to 0.9389216978911351 which can be improved by exploring other hyperparameters and ML model.
+# the mean scores is equivalent to 0.9389216978911351 
