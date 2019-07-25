@@ -1,7 +1,7 @@
 # Customer_comments_Analysis Using TfidfVectorizer
 the data set includes 10 feature variables and 23000 rows. Each row corresponds to a customer review and includes these variables:
-Clothing ID:
-Age: Positive Integer variable of the reviewers age.
+Clothing ID/
+Age: Positive Integer variable of the reviewers age./
 Title: String variable for the title of the review.
 Review Text: String variable for the review body.
 Rating: Positive Ordinal Integer variable for the product score granted by the customer from 1 Worst, to 5 Best.
